@@ -10,4 +10,8 @@ by Dan Knoflicek. Downloaded from <http://opengameart.org>.
 
 Info: Waspventure is a first attempt at creating a simple 2D-game for Android-devices.
 
+![Alt text](/screenshot1.png?raw=true "Screenshot 1")
+![Alt text](/screenshot2.png?raw=true "Screenshot 2")
+![Alt text](/screenshot3.png?raw=true "Screenshot 3")
+
 Contact: viktor.starn@gmail.com
