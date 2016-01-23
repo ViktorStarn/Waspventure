@@ -1,17 +1,17 @@
 WASPVENTURE
 ===========
 
-Author: Viktor Stärn
+Author: Viktor StÃ¤rn
 
 Graphics licensed under the terms of the version 3.0 of the Creative
-Commons Attribution-Share Alike license. © 2005-2013 Julien Jorge
+Commons Attribution-Share Alike license. Â© 2005-2013 Julien Jorge
 <julien.jorge@stuff-o-matic.com>, music by Kaetemi, sound effects
 by Dan Knoflicek. Downloaded from <http://opengameart.org>.
 
 Info: Waspventure is a first attempt at creating a simple 2D-game for Android-devices.
 
-![Alt text](/screenshot1.png?raw=true "Screenshot 1")
-![Alt text](/screenshot2.png?raw=true "Screenshot 2")
-![Alt text](/screenshot3.png?raw=true "Screenshot 3")
+![Screenshot 1](/screenshot1.png?raw=true "Screenshot 1")
+![Screenshot 2](/screenshot2.png?raw=true "Screenshot 2")
+![Screenshot 3](/screenshot3.png?raw=true "Screenshot 3")
 
 Contact: viktor.starn@gmail.com
